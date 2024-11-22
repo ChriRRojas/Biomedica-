@@ -56,11 +56,11 @@
 Este repositorio está en constante evolución. Puede que un día encuentres pura excelencia académica y al siguiente un meme de *Shrek* en MATLAB. 🤷‍♂️  
 
 > "La ciencia no solo es descubrir cosas nuevas, también es divertirse en el proceso."  
-\- Yo, probablemente después de un café.
+\- XD
 
 ---
 
-¡Gracias por pasar! ⭐ No olvides darle un vistazo a los proyectos y reírte con los chistes malos. ¡Nos vemos en el mundo biomédico! 🌐  
+
 
 
 
