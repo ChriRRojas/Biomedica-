@@ -48,7 +48,7 @@
 ## 🌟 **Contribuciones y Contacto**  
 
 ¿Tienes una idea loca o una duda existencial biomédica? ¡No dudes en contactarme! 🚨  
-**Email:** christofer.rojas@udg.mx (o envíame señales de humo, soy flexible).  
+**Email:** christofer.rojas8028@alumnos.udg.mx (o envíame señales de humo, soy flexible).  
 
 ---
 
