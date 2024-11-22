@@ -1,4 +1,4 @@
-# 🚀 **Repositorio Biomédico de Christofer Martin Rojas Ruiz** 🧬
+# 🚀 **Repositorio Biomédico de Christofer Martin Rojas Ruiz** 
 
 ¡Bienvenido a mi laboratorio virtual! Aquí encontrarás mis aventuras en la Ingeniería Biomédica 🩻, desde tareas académicas y apuntes iluminadores, hasta proyectos tan ambiciosos que harán que los robots lloren de emoción 🤖💧.
 
