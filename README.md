@@ -27,7 +27,7 @@
 ## 🛠️ **Herramientas y Tecnologías**  
 
 - **Lenguajes:** Python 🐍, MATLAB, y el idioma universal del caos.  
-- **IA:** Redes Neuronales Convolucionales, GANs, y otras cosas que suenan complicadas pero son divertidas.  
+- **IA:** Redes Neuronales y otras cosas que suenan complicadas pero son complicadas.  
 - **Software:** Jupyter, TensorFlow, y todo lo que haga parecer que sé lo que hago. 💻  
 
 ---
