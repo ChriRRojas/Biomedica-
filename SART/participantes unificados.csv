@@ -1,0 +1,501 @@
+Nombre,Género,Edad,Trial,Number,Number_Color,Font,Is_NoGo,Response,RT,Correct
+Ulises López Hinojosa,Masculino,19,1,9,#1abc9c,Arial,True,No Response,,True
+Ulises López Hinojosa,Masculino,19,2,9,#3498db,Arial,True,No Response,,True
+Ulises López Hinojosa,Masculino,19,3,8,#9b59b6,Georgia,False,Responded,0.2821786000004067,True
+Ulises López Hinojosa,Masculino,19,4,9,#34495e,Comic Sans MS,True,No Response,,True
+Ulises López Hinojosa,Masculino,19,5,9,#1abc9c,Georgia,True,No Response,,True
+Ulises López Hinojosa,Masculino,19,6,9,#f39c12,Georgia,True,No Response,,True
+Ulises López Hinojosa,Masculino,19,7,9,#e74c3c,Verdana,True,No Response,,True
+Ulises López Hinojosa,Masculino,19,8,5,#e74c3c,Verdana,False,Responded,0.3465551999997842,True
+Ulises López Hinojosa,Masculino,19,9,5,#e74c3c,Arial,False,Responded,0.4827288,True
+Ulises López Hinojosa,Masculino,19,10,9,#e74c3c,Courier,True,No Response,,True
+Ulises López Hinojosa,Masculino,19,11,9,#34495e,Georgia,True,No Response,,True
+Ulises López Hinojosa,Masculino,19,12,9,#9b59b6,Times New Roman,True,No Response,,True
+Ulises López Hinojosa,Masculino,19,13,6,#3498db,Times New Roman,False,Responded,0.4013903,True
+Ulises López Hinojosa,Masculino,19,14,3,#3498db,Impact,False,Responded,0.4348898000007466,True
+Ulises López Hinojosa,Masculino,19,15,9,#3498db,Verdana,True,No Response,,True
+Ulises López Hinojosa,Masculino,19,16,9,#3498db,Verdana,True,No Response,,True
+Ulises López Hinojosa,Masculino,19,17,6,#3498db,Times New Roman,False,Responded,0.3582279000002017,True
+Ulises López Hinojosa,Masculino,19,18,9,#f39c12,Courier,True,No Response,,True
+Ulises López Hinojosa,Masculino,19,19,9,#e74c3c,Arial,True,No Response,,True
+Ulises López Hinojosa,Masculino,19,20,4,#f39c12,Courier,False,Responded,0.3173661,True
+Ulises López Hinojosa,Masculino,19,21,9,#9b59b6,Comic Sans MS,True,No Response,,True
+Ulises López Hinojosa,Masculino,19,22,7,#9b59b6,Courier,False,Responded,0.3601724000000104,True
+Ulises López Hinojosa,Masculino,19,23,9,#f39c12,Verdana,True,No Response,,True
+Ulises López Hinojosa,Masculino,19,24,9,#f39c12,Georgia,True,No Response,,True
+Ulises López Hinojosa,Masculino,19,25,3,#2ecc71,Courier,False,Responded,0.3579209999988961,True
+Ulises López Hinojosa,Masculino,19,26,9,#f39c12,Comic Sans MS,True,No Response,,True
+Ulises López Hinojosa,Masculino,19,27,5,#9b59b6,Comic Sans MS,False,Responded,0.3633693,True
+Ulises López Hinojosa,Masculino,19,28,9,#34495e,Impact,True,No Response,,True
+Ulises López Hinojosa,Masculino,19,29,9,#f39c12,Arial,True,No Response,,True
+Ulises López Hinojosa,Masculino,19,30,9,#34495e,Impact,True,No Response,,True
+Ulises López Hinojosa,Masculino,19,31,9,#2ecc71,Comic Sans MS,True,No Response,,True
+Ulises López Hinojosa,Masculino,19,32,9,#3498db,Arial,True,No Response,,True
+Ulises López Hinojosa,Masculino,19,33,9,#e74c3c,Courier,True,No Response,,True
+Ulises López Hinojosa,Masculino,19,34,9,#3498db,Courier,True,No Response,,True
+Ulises López Hinojosa,Masculino,19,35,9,#3498db,Courier,True,No Response,,True
+Ulises López Hinojosa,Masculino,19,36,9,#9b59b6,Impact,True,Responded,0.3332082999986596,False
+Ulises López Hinojosa,Masculino,19,37,9,#3498db,Verdana,True,No Response,,True
+Ulises López Hinojosa,Masculino,19,38,9,#1abc9c,Georgia,True,No Response,,True
+Ulises López Hinojosa,Masculino,19,39,9,#3498db,Verdana,True,No Response,,True
+Ulises López Hinojosa,Masculino,19,40,9,#f39c12,Courier,True,No Response,,True
+Ulises López Hinojosa,Masculino,19,41,9,#1abc9c,Times New Roman,True,No Response,,True
+Ulises López Hinojosa,Masculino,19,42,6,#f39c12,Courier,False,Responded,0.4253221999988454,True
+Ulises López Hinojosa,Masculino,19,43,9,#2ecc71,Comic Sans MS,True,No Response,,True
+Ulises López Hinojosa,Masculino,19,44,2,#1abc9c,Georgia,False,Responded,0.3780380000007426,True
+Ulises López Hinojosa,Masculino,19,45,1,#e74c3c,Arial,False,Responded,0.4147683999999572,True
+Ulises López Hinojosa,Masculino,19,46,9,#2ecc71,Verdana,True,No Response,,True
+Ulises López Hinojosa,Masculino,19,47,9,#3498db,Courier,True,No Response,,True
+Ulises López Hinojosa,Masculino,19,48,9,#9b59b6,Courier,True,No Response,,True
+Ulises López Hinojosa,Masculino,19,49,9,#1abc9c,Verdana,True,No Response,,True
+Ulises López Hinojosa,Masculino,19,50,9,#3498db,Impact,True,No Response,,True
+Oscar Daniel Gomez Avalos ,Masculino,20,1,4,darkgreen,,False,No Response,,False
+Oscar Daniel Gomez Avalos ,Masculino,20,2,9,darkgreen,,True,No Response,,True
+Oscar Daniel Gomez Avalos ,Masculino,20,3,9,darkmagenta,,True,No Response,,True
+Oscar Daniel Gomez Avalos ,Masculino,20,4,9,green,,True,Responded,0.2720816000000923,False
+Oscar Daniel Gomez Avalos ,Masculino,20,5,9,darkgreen,,True,No Response,,True
+Oscar Daniel Gomez Avalos ,Masculino,20,6,9,darkmagenta,,True,No Response,,True
+Oscar Daniel Gomez Avalos ,Masculino,20,7,9,purple,,True,No Response,,True
+Oscar Daniel Gomez Avalos ,Masculino,20,8,9,darkmagenta,,True,No Response,,True
+Oscar Daniel Gomez Avalos ,Masculino,20,9,9,darkblue,,True,No Response,,True
+Oscar Daniel Gomez Avalos ,Masculino,20,10,9,purple,,True,No Response,,True
+Oscar Daniel Gomez Avalos ,Masculino,20,11,9,red,,True,No Response,,True
+Oscar Daniel Gomez Avalos ,Masculino,20,12,9,darkred,,True,No Response,,True
+Oscar Daniel Gomez Avalos ,Masculino,20,13,2,darkred,,False,Responded,0.3832604000001538,True
+Oscar Daniel Gomez Avalos ,Masculino,20,14,9,red,,True,No Response,,True
+Oscar Daniel Gomez Avalos ,Masculino,20,15,9,orange,,True,No Response,,True
+Oscar Daniel Gomez Avalos ,Masculino,20,16,9,darkblue,,True,No Response,,True
+Oscar Daniel Gomez Avalos ,Masculino,20,17,1,purple,,False,Responded,0.4841339000001881,True
+Oscar Daniel Gomez Avalos ,Masculino,20,18,9,darkblue,,True,No Response,,True
+Oscar Daniel Gomez Avalos ,Masculino,20,19,9,green,,True,No Response,,True
+Oscar Daniel Gomez Avalos ,Masculino,20,20,9,blue,,True,No Response,,True
+Oscar Daniel Gomez Avalos ,Masculino,20,21,2,darkgreen,,False,Responded,0.3239373000001251,True
+Oscar Daniel Gomez Avalos ,Masculino,20,22,9,purple,,True,No Response,,True
+Oscar Daniel Gomez Avalos ,Masculino,20,23,9,purple,,True,No Response,,True
+Oscar Daniel Gomez Avalos ,Masculino,20,24,9,red,,True,No Response,,True
+Oscar Daniel Gomez Avalos ,Masculino,20,25,9,green,,True,No Response,,True
+Oscar Daniel Gomez Avalos ,Masculino,20,26,9,orange,,True,No Response,,True
+Oscar Daniel Gomez Avalos ,Masculino,20,27,9,green,,True,No Response,,True
+Oscar Daniel Gomez Avalos ,Masculino,20,28,5,purple,,False,Responded,0.4956497000000581,True
+Oscar Daniel Gomez Avalos ,Masculino,20,29,9,red,,True,No Response,,True
+Oscar Daniel Gomez Avalos ,Masculino,20,30,8,darkmagenta,,False,Responded,0.4225149999999757,True
+Oscar Daniel Gomez Avalos ,Masculino,20,31,9,darkgreen,,True,No Response,,True
+Oscar Daniel Gomez Avalos ,Masculino,20,32,8,purple,,False,Responded,0.4455115999999179,True
+Oscar Daniel Gomez Avalos ,Masculino,20,33,6,red,,False,Responded,0.4675170999998954,True
+Oscar Daniel Gomez Avalos ,Masculino,20,34,2,blue,,False,Responded,0.4012433000000328,True
+Oscar Daniel Gomez Avalos ,Masculino,20,35,9,darkmagenta,,True,No Response,,True
+Oscar Daniel Gomez Avalos ,Masculino,20,36,9,green,,True,No Response,,True
+Oscar Daniel Gomez Avalos ,Masculino,20,37,9,darkred,,True,No Response,,True
+Oscar Daniel Gomez Avalos ,Masculino,20,38,9,purple,,True,No Response,,True
+Oscar Daniel Gomez Avalos ,Masculino,20,39,2,darkmagenta,,False,Responded,0.3176275999999234,True
+Oscar Daniel Gomez Avalos ,Masculino,20,40,9,purple,,True,No Response,,True
+Oscar Daniel Gomez Avalos ,Masculino,20,41,9,darkmagenta,,True,No Response,,True
+Oscar Daniel Gomez Avalos ,Masculino,20,42,9,darkblue,,True,No Response,,True
+Oscar Daniel Gomez Avalos ,Masculino,20,43,9,red,,True,No Response,,True
+Oscar Daniel Gomez Avalos ,Masculino,20,44,9,red,,True,No Response,,True
+Oscar Daniel Gomez Avalos ,Masculino,20,45,9,green,,True,No Response,,True
+Oscar Daniel Gomez Avalos ,Masculino,20,46,9,orange,,True,No Response,,True
+Oscar Daniel Gomez Avalos ,Masculino,20,47,5,purple,,False,Responded,0.3854723999997986,True
+Oscar Daniel Gomez Avalos ,Masculino,20,48,9,purple,,True,No Response,,True
+Oscar Daniel Gomez Avalos ,Masculino,20,49,2,darkgreen,,False,Responded,0.3489609000000655,True
+Oscar Daniel Gomez Avalos ,Masculino,20,50,5,darkgreen,,False,Responded,0.4640574000000015,True
+Juan Gibran Neri Gonzales,Masculino,21,1,9,#9b59b6,Verdana,True,No Response,,True
+Juan Gibran Neri Gonzales,Masculino,21,2,4,#e74c3c,Impact,False,No Response,,False
+Juan Gibran Neri Gonzales,Masculino,21,3,4,#e74c3c,Verdana,False,Responded,0.9678956999996444,True
+Juan Gibran Neri Gonzales,Masculino,21,4,6,#3498db,Impact,False,Responded,0.1120835000001534,True
+Juan Gibran Neri Gonzales,Masculino,21,5,4,#3498db,Georgia,False,Responded,0.2160322999989148,True
+Juan Gibran Neri Gonzales,Masculino,21,6,5,#34495e,Times New Roman,False,Responded,0.2106416999995417,True
+Juan Gibran Neri Gonzales,Masculino,21,7,9,#9b59b6,Courier,True,Responded,0.0197744,False
+Juan Gibran Neri Gonzales,Masculino,21,8,9,#3498db,Georgia,True,No Response,,True
+Juan Gibran Neri Gonzales,Masculino,21,9,6,#3498db,Impact,False,Responded,0.2412720000011177,True
+Juan Gibran Neri Gonzales,Masculino,21,10,9,#3498db,Comic Sans MS,True,Responded,0.1311464999998861,False
+Juan Gibran Neri Gonzales,Masculino,21,11,9,#f39c12,Times New Roman,True,Responded,0.2678937999990012,False
+Juan Gibran Neri Gonzales,Masculino,21,12,1,#34495e,Arial,False,Responded,0.8783774999992602,True
+Juan Gibran Neri Gonzales,Masculino,21,13,9,#f39c12,Comic Sans MS,True,No Response,,True
+Juan Gibran Neri Gonzales,Masculino,21,14,9,#3498db,Verdana,True,Responded,0.1026786000002175,False
+Juan Gibran Neri Gonzales,Masculino,21,15,9,#9b59b6,Times New Roman,True,No Response,,True
+Juan Gibran Neri Gonzales,Masculino,21,16,9,#f39c12,Comic Sans MS,True,No Response,,True
+Juan Gibran Neri Gonzales,Masculino,21,17,9,#9b59b6,Impact,True,No Response,,True
+Juan Gibran Neri Gonzales,Masculino,21,18,1,#1abc9c,Comic Sans MS,False,Responded,0.3933651999996073,True
+Juan Gibran Neri Gonzales,Masculino,21,19,6,#9b59b6,Georgia,False,Responded,0.3246478000000934,True
+Juan Gibran Neri Gonzales,Masculino,21,20,6,#f39c12,Arial,False,Responded,0.2744323000006261,True
+Juan Gibran Neri Gonzales,Masculino,21,21,9,#2ecc71,Times New Roman,True,No Response,,True
+Juan Gibran Neri Gonzales,Masculino,21,22,9,#f39c12,Comic Sans MS,True,Responded,0.2665992999991431,False
+Juan Gibran Neri Gonzales,Masculino,21,23,9,#9b59b6,Comic Sans MS,True,No Response,,True
+Juan Gibran Neri Gonzales,Masculino,21,24,1,#f39c12,Georgia,False,Responded,0.3258365000001504,True
+Juan Gibran Neri Gonzales,Masculino,21,25,9,#9b59b6,Comic Sans MS,True,No Response,,True
+Juan Gibran Neri Gonzales,Masculino,21,26,7,#e74c3c,Georgia,False,Responded,0.3344517999994423,True
+Juan Gibran Neri Gonzales,Masculino,21,27,9,#2ecc71,Comic Sans MS,True,No Response,,True
+Juan Gibran Neri Gonzales,Masculino,21,28,2,#f39c12,Times New Roman,False,Responded,0.2780165999993187,True
+Juan Gibran Neri Gonzales,Masculino,21,29,9,#9b59b6,Times New Roman,True,No Response,,True
+Juan Gibran Neri Gonzales,Masculino,21,30,2,#1abc9c,Arial,False,Responded,0.2052608000012696,True
+Juan Gibran Neri Gonzales,Masculino,21,31,9,#9b59b6,Courier,True,No Response,,True
+Juan Gibran Neri Gonzales,Masculino,21,32,1,#e74c3c,Verdana,False,Responded,0.2817666999999346,True
+Juan Gibran Neri Gonzales,Masculino,21,33,9,#2ecc71,Impact,True,No Response,,True
+Juan Gibran Neri Gonzales,Masculino,21,34,9,#9b59b6,Times New Roman,True,No Response,,True
+Juan Gibran Neri Gonzales,Masculino,21,35,9,#1abc9c,Georgia,True,No Response,,True
+Juan Gibran Neri Gonzales,Masculino,21,36,2,#f39c12,Courier,False,Responded,0.4011828999991849,True
+Juan Gibran Neri Gonzales,Masculino,21,37,8,#2ecc71,Georgia,False,Responded,0.3640092999994522,True
+Juan Gibran Neri Gonzales,Masculino,21,38,2,#34495e,Arial,False,Responded,0.3701995999999781,True
+Juan Gibran Neri Gonzales,Masculino,21,39,9,#f39c12,Arial,True,No Response,,True
+Juan Gibran Neri Gonzales,Masculino,21,40,9,#f39c12,Times New Roman,True,No Response,,True
+Juan Gibran Neri Gonzales,Masculino,21,41,9,#9b59b6,Impact,True,No Response,,True
+Juan Gibran Neri Gonzales,Masculino,21,42,4,#9b59b6,Courier,False,Responded,0.3741599999993923,True
+Juan Gibran Neri Gonzales,Masculino,21,43,1,#34495e,Arial,False,Responded,0.3388759999998001,True
+Juan Gibran Neri Gonzales,Masculino,21,44,9,#2ecc71,Georgia,True,No Response,,True
+Juan Gibran Neri Gonzales,Masculino,21,45,9,#9b59b6,Georgia,True,No Response,,True
+Juan Gibran Neri Gonzales,Masculino,21,46,4,#9b59b6,Comic Sans MS,False,Responded,0.5118445000007341,True
+Juan Gibran Neri Gonzales,Masculino,21,47,4,#f39c12,Verdana,False,Responded,0.3772778,True
+Juan Gibran Neri Gonzales,Masculino,21,48,9,#3498db,Georgia,True,No Response,,True
+Juan Gibran Neri Gonzales,Masculino,21,49,3,#1abc9c,Times New Roman,False,Responded,0.3332159999990836,True
+Juan Gibran Neri Gonzales,Masculino,21,50,8,#34495e,Verdana,False,Responded,0.4724516000005678,True
+Jesus Alejandro Miranda Orozco,Masculino,19,1,9,#34495e,Georgia,True,No Response,,True
+Jesus Alejandro Miranda Orozco,Masculino,19,2,3,#34495e,Verdana,False,Responded,0.3798330999998143,True
+Jesus Alejandro Miranda Orozco,Masculino,19,3,8,#1abc9c,Georgia,False,Responded,0.3365584000002855,True
+Jesus Alejandro Miranda Orozco,Masculino,19,4,7,#3498db,Georgia,False,Responded,0.2921451,True
+Jesus Alejandro Miranda Orozco,Masculino,19,5,1,#1abc9c,Impact,False,Responded,0.2874601000003167,True
+Jesus Alejandro Miranda Orozco,Masculino,19,6,9,#34495e,Verdana,True,No Response,,True
+Jesus Alejandro Miranda Orozco,Masculino,19,7,7,#3498db,Georgia,False,Responded,0.2813203,True
+Jesus Alejandro Miranda Orozco,Masculino,19,8,5,#34495e,Comic Sans MS,False,Responded,0.3658474,True
+Jesus Alejandro Miranda Orozco,Masculino,19,9,9,#3498db,Arial,True,Responded,0.2777157999989867,False
+Jesus Alejandro Miranda Orozco,Masculino,19,10,9,#f39c12,Verdana,True,Responded,0.3051668999996764,False
+Jesus Alejandro Miranda Orozco,Masculino,19,11,9,#1abc9c,Arial,True,Responded,0.2766890000002604,False
+Jesus Alejandro Miranda Orozco,Masculino,19,12,9,#f39c12,Times New Roman,True,Responded,0.2657877000001463,False
+Jesus Alejandro Miranda Orozco,Masculino,19,13,9,#3498db,Times New Roman,True,Responded,0.2740262000006623,False
+Jesus Alejandro Miranda Orozco,Masculino,19,14,1,#9b59b6,Arial,False,Responded,0.2186660999996093,True
+Jesus Alejandro Miranda Orozco,Masculino,19,15,9,#2ecc71,Georgia,True,No Response,,True
+Jesus Alejandro Miranda Orozco,Masculino,19,16,9,#1abc9c,Verdana,True,Responded,0.2764065999999729,False
+Jesus Alejandro Miranda Orozco,Masculino,19,17,8,#3498db,Arial,False,Responded,0.4205898000000161,True
+Jesus Alejandro Miranda Orozco,Masculino,19,18,2,#f39c12,Times New Roman,False,Responded,0.3979043999988789,True
+Jesus Alejandro Miranda Orozco,Masculino,19,19,4,#34495e,Courier,False,Responded,0.3742007999990164,True
+Jesus Alejandro Miranda Orozco,Masculino,19,20,9,#1abc9c,Georgia,True,No Response,,True
+Jesus Alejandro Miranda Orozco,Masculino,19,21,9,#9b59b6,Courier,True,Responded,0.3122462999999698,False
+Jesus Alejandro Miranda Orozco,Masculino,19,22,9,#2ecc71,Courier,True,No Response,,True
+Jesus Alejandro Miranda Orozco,Masculino,19,23,5,#e74c3c,Verdana,False,Responded,0.2848901999986992,True
+Jesus Alejandro Miranda Orozco,Masculino,19,24,7,#3498db,Comic Sans MS,False,Responded,0.4922232,True
+Jesus Alejandro Miranda Orozco,Masculino,19,25,9,#2ecc71,Comic Sans MS,True,No Response,,True
+Jesus Alejandro Miranda Orozco,Masculino,19,26,2,#f39c12,Verdana,False,Responded,0.4313583999992261,True
+Jesus Alejandro Miranda Orozco,Masculino,19,27,9,#9b59b6,Courier,True,No Response,,True
+Jesus Alejandro Miranda Orozco,Masculino,19,28,9,#3498db,Verdana,True,No Response,,True
+Jesus Alejandro Miranda Orozco,Masculino,19,29,8,#9b59b6,Courier,False,Responded,0.4045657000006031,True
+Jesus Alejandro Miranda Orozco,Masculino,19,30,6,#e74c3c,Courier,False,Responded,0.4382425000003422,True
+Jesus Alejandro Miranda Orozco,Masculino,19,31,9,#2ecc71,Comic Sans MS,True,No Response,,True
+Jesus Alejandro Miranda Orozco,Masculino,19,32,9,#1abc9c,Georgia,True,No Response,,True
+Jesus Alejandro Miranda Orozco,Masculino,19,33,5,#f39c12,Times New Roman,False,Responded,0.3438838999991276,True
+Jesus Alejandro Miranda Orozco,Masculino,19,34,9,#3498db,Times New Roman,True,No Response,,True
+Jesus Alejandro Miranda Orozco,Masculino,19,35,9,#e74c3c,Arial,True,No Response,,True
+Jesus Alejandro Miranda Orozco,Masculino,19,36,9,#f39c12,Impact,True,No Response,,True
+Jesus Alejandro Miranda Orozco,Masculino,19,37,9,#9b59b6,Impact,True,No Response,,True
+Jesus Alejandro Miranda Orozco,Masculino,19,38,9,#34495e,Courier,True,No Response,,True
+Jesus Alejandro Miranda Orozco,Masculino,19,39,1,#2ecc71,Comic Sans MS,False,Responded,0.3578842999995686,True
+Jesus Alejandro Miranda Orozco,Masculino,19,40,9,#9b59b6,Georgia,True,No Response,,True
+Jesus Alejandro Miranda Orozco,Masculino,19,41,6,#2ecc71,Comic Sans MS,False,Responded,0.4252586000002338,True
+Jesus Alejandro Miranda Orozco,Masculino,19,42,3,#e74c3c,Comic Sans MS,False,Responded,0.3376635000004171,True
+Jesus Alejandro Miranda Orozco,Masculino,19,43,9,#1abc9c,Times New Roman,True,Responded,0.2833561999996163,False
+Jesus Alejandro Miranda Orozco,Masculino,19,44,7,#3498db,Impact,False,Responded,0.5498556000002282,True
+Jesus Alejandro Miranda Orozco,Masculino,19,45,9,#e74c3c,Impact,True,No Response,,True
+Jesus Alejandro Miranda Orozco,Masculino,19,46,9,#2ecc71,Courier,True,No Response,,True
+Jesus Alejandro Miranda Orozco,Masculino,19,47,8,#2ecc71,Comic Sans MS,False,No Response,,False
+Jesus Alejandro Miranda Orozco,Masculino,19,48,9,#3498db,Verdana,True,Responded,0.3503238000012061,False
+Jesus Alejandro Miranda Orozco,Masculino,19,49,9,#9b59b6,Verdana,True,No Response,,True
+Jesus Alejandro Miranda Orozco,Masculino,19,50,2,#3498db,Impact,False,Responded,0.4176745000004302,True
+Andres Julian Flores Hernandez,Masculino,21,1,9,#f39c12,Times New Roman,True,No Response,,True
+Andres Julian Flores Hernandez,Masculino,21,2,5,#3498db,Verdana,False,Responded,0.3124609000005875,True
+Andres Julian Flores Hernandez,Masculino,21,3,9,#1abc9c,Comic Sans MS,True,No Response,,True
+Andres Julian Flores Hernandez,Masculino,21,4,9,#34495e,Arial,True,No Response,,True
+Andres Julian Flores Hernandez,Masculino,21,5,4,#34495e,Courier,False,Responded,0.3049217999996472,True
+Andres Julian Flores Hernandez,Masculino,21,6,9,#3498db,Courier,True,No Response,,True
+Andres Julian Flores Hernandez,Masculino,21,7,9,#f39c12,Impact,True,No Response,,True
+Andres Julian Flores Hernandez,Masculino,21,8,9,#f39c12,Impact,True,No Response,,True
+Andres Julian Flores Hernandez,Masculino,21,9,9,#9b59b6,Courier,True,No Response,,True
+Andres Julian Flores Hernandez,Masculino,21,10,6,#e74c3c,Verdana,False,Responded,0.4121639000004506,True
+Andres Julian Flores Hernandez,Masculino,21,11,9,#9b59b6,Impact,True,No Response,,True
+Andres Julian Flores Hernandez,Masculino,21,12,9,#1abc9c,Impact,True,No Response,,True
+Andres Julian Flores Hernandez,Masculino,21,13,2,#1abc9c,Georgia,False,Responded,0.3676095000009809,True
+Andres Julian Flores Hernandez,Masculino,21,14,9,#9b59b6,Georgia,True,No Response,,True
+Andres Julian Flores Hernandez,Masculino,21,15,5,#f39c12,Courier,False,Responded,0.4220191000003979,True
+Andres Julian Flores Hernandez,Masculino,21,16,6,#1abc9c,Verdana,False,Responded,0.6109556999999768,True
+Andres Julian Flores Hernandez,Masculino,21,17,6,#f39c12,Georgia,False,Responded,0.4362712,True
+Andres Julian Flores Hernandez,Masculino,21,18,9,#2ecc71,Courier,True,No Response,,True
+Andres Julian Flores Hernandez,Masculino,21,19,9,#f39c12,Arial,True,No Response,,True
+Andres Julian Flores Hernandez,Masculino,21,20,2,#f39c12,Arial,False,Responded,0.3169541000006575,True
+Andres Julian Flores Hernandez,Masculino,21,21,9,#9b59b6,Times New Roman,True,No Response,,True
+Andres Julian Flores Hernandez,Masculino,21,22,2,#2ecc71,Times New Roman,False,Responded,0.3601428999991185,True
+Andres Julian Flores Hernandez,Masculino,21,23,2,#9b59b6,Verdana,False,Responded,0.4619600999994873,True
+Andres Julian Flores Hernandez,Masculino,21,24,9,#9b59b6,Times New Roman,True,No Response,,True
+Andres Julian Flores Hernandez,Masculino,21,25,9,#3498db,Impact,True,No Response,,True
+Andres Julian Flores Hernandez,Masculino,21,26,9,#f39c12,Comic Sans MS,True,No Response,,True
+Andres Julian Flores Hernandez,Masculino,21,27,7,#2ecc71,Arial,False,Responded,0.4117564000007405,True
+Andres Julian Flores Hernandez,Masculino,21,28,9,#1abc9c,Times New Roman,True,No Response,,True
+Andres Julian Flores Hernandez,Masculino,21,29,7,#1abc9c,Arial,False,Responded,0.4214222999999037,True
+Andres Julian Flores Hernandez,Masculino,21,30,9,#3498db,Georgia,True,No Response,,True
+Andres Julian Flores Hernandez,Masculino,21,31,9,#2ecc71,Georgia,True,No Response,,True
+Andres Julian Flores Hernandez,Masculino,21,32,9,#3498db,Arial,True,No Response,,True
+Andres Julian Flores Hernandez,Masculino,21,33,9,#2ecc71,Verdana,True,No Response,,True
+Andres Julian Flores Hernandez,Masculino,21,34,9,#f39c12,Verdana,True,No Response,,True
+Andres Julian Flores Hernandez,Masculino,21,35,9,#1abc9c,Impact,True,No Response,,True
+Andres Julian Flores Hernandez,Masculino,21,36,9,#3498db,Impact,True,No Response,,True
+Andres Julian Flores Hernandez,Masculino,21,37,9,#3498db,Courier,True,No Response,,True
+Andres Julian Flores Hernandez,Masculino,21,38,9,#9b59b6,Courier,True,No Response,,True
+Andres Julian Flores Hernandez,Masculino,21,39,9,#34495e,Comic Sans MS,True,No Response,,True
+Andres Julian Flores Hernandez,Masculino,21,40,4,#2ecc71,Georgia,False,Responded,0.4433090000002266,True
+Andres Julian Flores Hernandez,Masculino,21,41,9,#2ecc71,Arial,True,No Response,,True
+Andres Julian Flores Hernandez,Masculino,21,42,9,#34495e,Times New Roman,True,No Response,,True
+Andres Julian Flores Hernandez,Masculino,21,43,7,#9b59b6,Courier,False,Responded,0.4727551,True
+Andres Julian Flores Hernandez,Masculino,21,44,9,#2ecc71,Georgia,True,No Response,,True
+Andres Julian Flores Hernandez,Masculino,21,45,9,#f39c12,Comic Sans MS,True,No Response,,True
+Andres Julian Flores Hernandez,Masculino,21,46,9,#f39c12,Arial,True,No Response,,True
+Andres Julian Flores Hernandez,Masculino,21,47,9,#1abc9c,Times New Roman,True,No Response,,True
+Andres Julian Flores Hernandez,Masculino,21,48,5,#9b59b6,Courier,False,Responded,0.4771074000000226,True
+Andres Julian Flores Hernandez,Masculino,21,49,9,#e74c3c,Impact,True,No Response,,True
+Andres Julian Flores Hernandez,Masculino,21,50,9,#34495e,Arial,True,No Response,,True
+Anónimo #1,Masculino,24,1,9,purple,,True,No Response,,True
+Anónimo #1,Masculino,24,2,9,green,,True,No Response,,True
+Anónimo #1,Masculino,24,3,3,darkblue,,False,Responded,0.3337018999998236,True
+Anónimo #1,Masculino,24,4,9,purple,,True,No Response,,True
+Anónimo #1,Masculino,24,5,8,darkgreen,,False,Responded,0.3808059999998932,True
+Anónimo #1,Masculino,24,6,3,blue,,False,Responded,0.4536622000000534,True
+Anónimo #1,Masculino,24,7,9,darkblue,,True,No Response,,True
+Anónimo #1,Masculino,24,8,3,darkred,,False,Responded,0.3921932000000652,True
+Anónimo #1,Masculino,24,9,7,darkmagenta,,False,Responded,0.4546434999999746,True
+Anónimo #1,Masculino,24,10,1,blue,,False,Responded,0.4430548000000271,True
+Anónimo #1,Masculino,24,11,9,blue,,True,No Response,,True
+Anónimo #1,Masculino,24,12,9,red,,True,No Response,,True
+Anónimo #1,Masculino,24,13,9,orange,,True,No Response,,True
+Anónimo #1,Masculino,24,14,9,blue,,True,No Response,,True
+Anónimo #1,Masculino,24,15,9,darkgreen,,True,No Response,,True
+Anónimo #1,Masculino,24,16,9,blue,,True,No Response,,True
+Anónimo #1,Masculino,24,17,8,purple,,False,Responded,0.4116873000000396,True
+Anónimo #1,Masculino,24,18,9,red,,True,No Response,,True
+Anónimo #1,Masculino,24,19,9,darkmagenta,,True,No Response,,True
+Anónimo #1,Masculino,24,20,4,darkgreen,,False,Responded,0.3709443999998711,True
+Anónimo #1,Masculino,24,21,9,darkblue,,True,No Response,,True
+Anónimo #1,Masculino,24,22,9,red,,True,No Response,,True
+Anónimo #1,Masculino,24,23,4,red,,False,Responded,0.3809301999999661,True
+Anónimo #1,Masculino,24,24,9,orange,,True,No Response,,True
+Anónimo #1,Masculino,24,25,1,blue,,False,Responded,0.3573618000000351,True
+Anónimo #1,Masculino,24,26,9,darkblue,,True,No Response,,True
+Anónimo #1,Masculino,24,27,2,green,,False,Responded,0.3040828000000601,True
+Anónimo #1,Masculino,24,28,6,darkblue,,False,No Response,,False
+Anónimo #1,Masculino,24,29,9,darkmagenta,,True,No Response,,True
+Anónimo #1,Masculino,24,30,9,red,,True,No Response,,True
+Anónimo #1,Masculino,24,31,9,green,,True,No Response,,True
+Anónimo #1,Masculino,24,32,9,purple,,True,No Response,,True
+Anónimo #1,Masculino,24,33,9,purple,,True,No Response,,True
+Anónimo #1,Masculino,24,34,9,darkmagenta,,True,No Response,,True
+Anónimo #1,Masculino,24,35,9,purple,,True,No Response,,True
+Anónimo #1,Masculino,24,36,9,red,,True,No Response,,True
+Anónimo #1,Masculino,24,37,2,purple,,False,Responded,0.3779726,True
+Anónimo #1,Masculino,24,38,9,green,,True,No Response,,True
+Anónimo #1,Masculino,24,39,9,orange,,True,No Response,,True
+Anónimo #1,Masculino,24,40,8,darkgreen,,False,Responded,0.4039466000001539,True
+Anónimo #1,Masculino,24,41,3,darkred,,False,Responded,0.4302663999999367,True
+Anónimo #1,Masculino,24,42,9,green,,True,No Response,,True
+Anónimo #1,Masculino,24,43,9,green,,True,No Response,,True
+Anónimo #1,Masculino,24,44,9,green,,True,No Response,,True
+Anónimo #1,Masculino,24,45,7,darkmagenta,,False,Responded,0.3439307999999528,True
+Anónimo #1,Masculino,24,46,9,red,,True,No Response,,True
+Anónimo #1,Masculino,24,47,3,darkblue,,False,Responded,0.3484771000000819,True
+Anónimo #1,Masculino,24,48,9,darkmagenta,,True,No Response,,True
+Anónimo #1,Masculino,24,49,9,darkmagenta,,True,No Response,,True
+Anónimo #1,Masculino,24,50,4,red,,False,Responded,0.3557256000001416,True
+Alfonso Gutierrez Maldonado,Masculino,19,1,9,#3498db,Verdana,True,No Response,,True
+Alfonso Gutierrez Maldonado,Masculino,19,2,5,#34495e,Comic Sans MS,False,Responded,0.3234524,True
+Alfonso Gutierrez Maldonado,Masculino,19,3,9,#1abc9c,Arial,True,No Response,,True
+Alfonso Gutierrez Maldonado,Masculino,19,4,6,#3498db,Comic Sans MS,False,Responded,0.3018871000003855,True
+Alfonso Gutierrez Maldonado,Masculino,19,5,9,#e74c3c,Impact,True,No Response,,True
+Alfonso Gutierrez Maldonado,Masculino,19,6,9,#9b59b6,Impact,True,No Response,,True
+Alfonso Gutierrez Maldonado,Masculino,19,7,6,#1abc9c,Impact,False,Responded,0.3424543000000994,True
+Alfonso Gutierrez Maldonado,Masculino,19,8,8,#1abc9c,Comic Sans MS,False,Responded,0.3492167999993398,True
+Alfonso Gutierrez Maldonado,Masculino,19,9,9,#1abc9c,Arial,True,No Response,,True
+Alfonso Gutierrez Maldonado,Masculino,19,10,9,#e74c3c,Courier,True,No Response,,True
+Alfonso Gutierrez Maldonado,Masculino,19,11,8,#2ecc71,Impact,False,Responded,0.3387356999992335,True
+Alfonso Gutierrez Maldonado,Masculino,19,12,7,#1abc9c,Georgia,False,Responded,0.3443177999997715,True
+Alfonso Gutierrez Maldonado,Masculino,19,13,4,#e74c3c,Arial,False,Responded,0.4582523000008223,True
+Alfonso Gutierrez Maldonado,Masculino,19,14,9,#1abc9c,Arial,True,No Response,,True
+Alfonso Gutierrez Maldonado,Masculino,19,15,9,#f39c12,Comic Sans MS,True,No Response,,True
+Alfonso Gutierrez Maldonado,Masculino,19,16,3,#1abc9c,Arial,False,Responded,0.3398641000003408,True
+Alfonso Gutierrez Maldonado,Masculino,19,17,1,#9b59b6,Times New Roman,False,Responded,0.3107904000007693,True
+Alfonso Gutierrez Maldonado,Masculino,19,18,9,#1abc9c,Georgia,True,No Response,,True
+Alfonso Gutierrez Maldonado,Masculino,19,19,9,#f39c12,Courier,True,No Response,,True
+Alfonso Gutierrez Maldonado,Masculino,19,20,9,#1abc9c,Courier,True,No Response,,True
+Alfonso Gutierrez Maldonado,Masculino,19,21,9,#f39c12,Georgia,True,No Response,,True
+Alfonso Gutierrez Maldonado,Masculino,19,22,9,#9b59b6,Verdana,True,No Response,,True
+Alfonso Gutierrez Maldonado,Masculino,19,23,6,#9b59b6,Arial,False,Responded,0.4445101000001159,True
+Alfonso Gutierrez Maldonado,Masculino,19,24,9,#f39c12,Georgia,True,No Response,,True
+Alfonso Gutierrez Maldonado,Masculino,19,25,9,#f39c12,Arial,True,No Response,,True
+Alfonso Gutierrez Maldonado,Masculino,19,26,9,#f39c12,Impact,True,No Response,,True
+Alfonso Gutierrez Maldonado,Masculino,19,27,9,#1abc9c,Verdana,True,No Response,,True
+Alfonso Gutierrez Maldonado,Masculino,19,28,4,#1abc9c,Georgia,False,Responded,0.3593435,True
+Alfonso Gutierrez Maldonado,Masculino,19,29,2,#3498db,Arial,False,Responded,0.3458353000005445,True
+Alfonso Gutierrez Maldonado,Masculino,19,30,4,#1abc9c,Verdana,False,Responded,0.3924972000004345,True
+Alfonso Gutierrez Maldonado,Masculino,19,31,8,#1abc9c,Comic Sans MS,False,Responded,0.3956839999991643,True
+Alfonso Gutierrez Maldonado,Masculino,19,32,9,#2ecc71,Verdana,True,No Response,,True
+Alfonso Gutierrez Maldonado,Masculino,19,33,9,#9b59b6,Courier,True,No Response,,True
+Alfonso Gutierrez Maldonado,Masculino,19,34,1,#1abc9c,Comic Sans MS,False,Responded,0.3534753000003547,True
+Alfonso Gutierrez Maldonado,Masculino,19,35,7,#2ecc71,Verdana,False,Responded,0.4652607999996689,True
+Alfonso Gutierrez Maldonado,Masculino,19,36,3,#e74c3c,Arial,False,Responded,0.3251500999995187,True
+Alfonso Gutierrez Maldonado,Masculino,19,37,9,#3498db,Times New Roman,True,No Response,,True
+Alfonso Gutierrez Maldonado,Masculino,19,38,9,#9b59b6,Times New Roman,True,No Response,,True
+Alfonso Gutierrez Maldonado,Masculino,19,39,9,#34495e,Courier,True,No Response,,True
+Alfonso Gutierrez Maldonado,Masculino,19,40,9,#3498db,Arial,True,No Response,,True
+Alfonso Gutierrez Maldonado,Masculino,19,41,1,#e74c3c,Verdana,False,Responded,0.4123177000001305,True
+Alfonso Gutierrez Maldonado,Masculino,19,42,9,#3498db,Times New Roman,True,No Response,,True
+Alfonso Gutierrez Maldonado,Masculino,19,43,4,#34495e,Georgia,False,Responded,0.372205,True
+Alfonso Gutierrez Maldonado,Masculino,19,44,1,#1abc9c,Arial,False,Responded,0.3540948999998363,True
+Alfonso Gutierrez Maldonado,Masculino,19,45,9,#1abc9c,Courier,True,No Response,,True
+Alfonso Gutierrez Maldonado,Masculino,19,46,9,#9b59b6,Verdana,True,No Response,,True
+Alfonso Gutierrez Maldonado,Masculino,19,47,3,#f39c12,Courier,False,Responded,0.3548458000004757,True
+Alfonso Gutierrez Maldonado,Masculino,19,48,9,#9b59b6,Comic Sans MS,True,No Response,,True
+Alfonso Gutierrez Maldonado,Masculino,19,49,9,#e74c3c,Impact,True,No Response,,True
+Alfonso Gutierrez Maldonado,Masculino,19,50,2,#3498db,Arial,False,Responded,0.3525384999993548,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,1,9,#9b59b6,Times New Roman,True,No Response,,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,2,2,#2ecc71,Comic Sans MS,False,Responded,0.5301959999997052,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,3,8,#f39c12,Verdana,False,Responded,0.5280496000013954,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,4,9,#2ecc71,Georgia,True,No Response,,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,5,9,#1abc9c,Georgia,True,No Response,,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,6,2,#3498db,Times New Roman,False,Responded,0.3444022000003315,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,7,9,#1abc9c,Comic Sans MS,True,No Response,,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,8,9,#3498db,Courier,True,No Response,,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,9,7,#34495e,Verdana,False,Responded,0.5040695000006963,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,10,9,#f39c12,Impact,True,No Response,,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,11,9,#34495e,Courier,True,No Response,,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,12,9,#f39c12,Courier,True,No Response,,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,13,9,#9b59b6,Verdana,True,No Response,,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,14,3,#e74c3c,Arial,False,Responded,0.5785821000008582,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,15,9,#e74c3c,Comic Sans MS,True,No Response,,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,16,4,#3498db,Georgia,False,Responded,0.7130398999997851,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,17,9,#34495e,Comic Sans MS,True,No Response,,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,18,9,#1abc9c,Times New Roman,True,No Response,,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,19,4,#9b59b6,Courier,False,Responded,0.4194271999986085,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,20,9,#1abc9c,Comic Sans MS,True,No Response,,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,21,3,#e74c3c,Georgia,False,Responded,0.4657485999996424,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,22,6,#3498db,Courier,False,Responded,0.5216247,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,23,9,#2ecc71,Comic Sans MS,True,No Response,,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,24,5,#1abc9c,Courier,False,Responded,0.4964204000007157,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,25,9,#34495e,Comic Sans MS,True,No Response,,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,26,9,#1abc9c,Courier,True,No Response,,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,27,9,#3498db,Georgia,True,No Response,,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,28,9,#9b59b6,Impact,True,No Response,,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,29,9,#f39c12,Georgia,True,No Response,,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,30,4,#e74c3c,Times New Roman,False,Responded,0.3410991000000649,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,31,9,#34495e,Times New Roman,True,No Response,,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,32,9,#e74c3c,Georgia,True,No Response,,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,33,9,#e74c3c,Courier,True,No Response,,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,34,5,#e74c3c,Impact,False,Responded,0.4387372000001051,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,35,9,#2ecc71,Comic Sans MS,True,No Response,,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,36,9,#f39c12,Comic Sans MS,True,No Response,,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,37,8,#1abc9c,Comic Sans MS,False,Responded,0.4651990000002115,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,38,9,#f39c12,Courier,True,No Response,,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,39,9,#9b59b6,Arial,True,No Response,,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,40,9,#f39c12,Verdana,True,No Response,,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,41,9,#9b59b6,Times New Roman,True,No Response,,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,42,9,#3498db,Verdana,True,No Response,,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,43,9,#9b59b6,Georgia,True,No Response,,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,44,9,#3498db,Comic Sans MS,True,No Response,,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,45,9,#9b59b6,Comic Sans MS,True,No Response,,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,46,9,#e74c3c,Courier,True,No Response,,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,47,1,#34495e,Times New Roman,False,Responded,0.4539621000003535,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,48,9,#3498db,Comic Sans MS,True,No Response,,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,49,9,#2ecc71,Arial,True,No Response,,True
+Felipe de Jesús Jacobo Alfaro,Masculino,28,50,9,#f39c12,Impact,True,No Response,,True
+Diego Ponce Figueroa,Masculino,19,1,1,#1abc9c,Courier,False,Responded,0.3335645999995904,True
+Diego Ponce Figueroa,Masculino,19,2,8,#9b59b6,Times New Roman,False,Responded,0.1831123000010848,True
+Diego Ponce Figueroa,Masculino,19,3,9,#9b59b6,Impact,True,Responded,0.1684357999984058,False
+Diego Ponce Figueroa,Masculino,19,4,9,#2ecc71,Verdana,True,No Response,,True
+Diego Ponce Figueroa,Masculino,19,5,6,#3498db,Impact,False,Responded,0.2605432000000292,True
+Diego Ponce Figueroa,Masculino,19,6,9,#34495e,Verdana,True,No Response,,True
+Diego Ponce Figueroa,Masculino,19,7,1,#2ecc71,Courier,False,Responded,0.2841821,True
+Diego Ponce Figueroa,Masculino,19,8,9,#1abc9c,Courier,True,Responded,0.1964261000011902,False
+Diego Ponce Figueroa,Masculino,19,9,9,#f39c12,Times New Roman,True,No Response,,True
+Diego Ponce Figueroa,Masculino,19,10,2,#2ecc71,Courier,False,Responded,0.3022832000006019,True
+Diego Ponce Figueroa,Masculino,19,11,9,#e74c3c,Verdana,True,No Response,,True
+Diego Ponce Figueroa,Masculino,19,12,9,#1abc9c,Comic Sans MS,True,Responded,0.1893142000008083,False
+Diego Ponce Figueroa,Masculino,19,13,5,#f39c12,Georgia,False,Responded,0.3649934000004577,True
+Diego Ponce Figueroa,Masculino,19,14,1,#1abc9c,Impact,False,Responded,0.2941360000004351,True
+Diego Ponce Figueroa,Masculino,19,15,9,#1abc9c,Georgia,True,No Response,,True
+Diego Ponce Figueroa,Masculino,19,16,6,#3498db,Times New Roman,False,Responded,0.2837414000005083,True
+Diego Ponce Figueroa,Masculino,19,17,9,#3498db,Times New Roman,True,Responded,0.2843070999988413,False
+Diego Ponce Figueroa,Masculino,19,18,7,#9b59b6,Arial,False,Responded,0.3382548000008682,True
+Diego Ponce Figueroa,Masculino,19,19,9,#34495e,Verdana,True,No Response,,True
+Diego Ponce Figueroa,Masculino,19,20,6,#2ecc71,Comic Sans MS,False,Responded,0.2408023999996658,True
+Diego Ponce Figueroa,Masculino,19,21,6,#f39c12,Courier,False,Responded,0.2940180999994481,True
+Diego Ponce Figueroa,Masculino,19,22,9,#3498db,Courier,True,No Response,,True
+Diego Ponce Figueroa,Masculino,19,23,8,#34495e,Verdana,False,Responded,0.3378500000017084,True
+Diego Ponce Figueroa,Masculino,19,24,5,#3498db,Times New Roman,False,Responded,0.2990600000011909,True
+Diego Ponce Figueroa,Masculino,19,25,3,#e74c3c,Arial,False,Responded,0.2966785999997228,True
+Diego Ponce Figueroa,Masculino,19,26,7,#e74c3c,Impact,False,Responded,0.2447613000003912,True
+Diego Ponce Figueroa,Masculino,19,27,9,#1abc9c,Impact,True,Responded,0.295551,False
+Diego Ponce Figueroa,Masculino,19,28,9,#e74c3c,Impact,True,Responded,0.2651769000003696,False
+Diego Ponce Figueroa,Masculino,19,29,8,#e74c3c,Impact,False,Responded,0.4339693999991141,True
+Diego Ponce Figueroa,Masculino,19,30,4,#1abc9c,Impact,False,Responded,0.6587165999990248,True
+Diego Ponce Figueroa,Masculino,19,31,9,#1abc9c,Arial,True,No Response,,True
+Diego Ponce Figueroa,Masculino,19,32,2,#2ecc71,Verdana,False,Responded,0.3128455000005488,True
+Diego Ponce Figueroa,Masculino,19,33,8,#34495e,Impact,False,Responded,0.3381575999992492,True
+Diego Ponce Figueroa,Masculino,19,34,5,#e74c3c,Times New Roman,False,Responded,0.2954791000011028,True
+Diego Ponce Figueroa,Masculino,19,35,9,#3498db,Verdana,True,No Response,,True
+Diego Ponce Figueroa,Masculino,19,36,8,#e74c3c,Arial,False,Responded,0.2503199000002496,True
+Diego Ponce Figueroa,Masculino,19,37,9,#e74c3c,Arial,True,Responded,0.2379129,False
+Diego Ponce Figueroa,Masculino,19,38,9,#9b59b6,Georgia,True,No Response,,True
+Diego Ponce Figueroa,Masculino,19,39,4,#34495e,Comic Sans MS,False,Responded,0.3185689,True
+Diego Ponce Figueroa,Masculino,19,40,9,#f39c12,Comic Sans MS,True,Responded,0.2879388000001199,False
+Diego Ponce Figueroa,Masculino,19,41,2,#9b59b6,Comic Sans MS,False,Responded,0.3901274999989255,True
+Diego Ponce Figueroa,Masculino,19,42,9,#2ecc71,Verdana,True,No Response,,True
+Diego Ponce Figueroa,Masculino,19,43,7,#34495e,Courier,False,Responded,0.2664017000006424,True
+Diego Ponce Figueroa,Masculino,19,44,9,#9b59b6,Georgia,True,No Response,,True
+Diego Ponce Figueroa,Masculino,19,45,9,#34495e,Verdana,True,Responded,0.1119839000002684,False
+Diego Ponce Figueroa,Masculino,19,46,9,#9b59b6,Times New Roman,True,No Response,,True
+Diego Ponce Figueroa,Masculino,19,47,9,#34495e,Arial,True,Responded,0.1815870999998878,False
+Diego Ponce Figueroa,Masculino,19,48,9,#2ecc71,Arial,True,No Response,,True
+Diego Ponce Figueroa,Masculino,19,49,9,#2ecc71,Verdana,True,No Response,,True
+Diego Ponce Figueroa,Masculino,19,50,9,#1abc9c,Arial,True,No Response,,True
+Moises Alberto Garcia Miranda,Masculino,23,1,9,#e74c3c,Arial,True,No Response,,True
+Moises Alberto Garcia Miranda,Masculino,23,2,6,#3498db,Impact,False,Responded,0.2847507000005862,True
+Moises Alberto Garcia Miranda,Masculino,23,3,9,#1abc9c,Times New Roman,True,Responded,0.3411429999996471,False
+Moises Alberto Garcia Miranda,Masculino,23,4,9,#9b59b6,Verdana,True,No Response,,True
+Moises Alberto Garcia Miranda,Masculino,23,5,9,#9b59b6,Courier,True,No Response,,True
+Moises Alberto Garcia Miranda,Masculino,23,6,8,#1abc9c,Georgia,False,Responded,0.3328712000002269,True
+Moises Alberto Garcia Miranda,Masculino,23,7,9,#34495e,Comic Sans MS,True,No Response,,True
+Moises Alberto Garcia Miranda,Masculino,23,8,9,#e74c3c,Times New Roman,True,No Response,,True
+Moises Alberto Garcia Miranda,Masculino,23,9,9,#3498db,Courier,True,No Response,,True
+Moises Alberto Garcia Miranda,Masculino,23,10,9,#1abc9c,Impact,True,No Response,,True
+Moises Alberto Garcia Miranda,Masculino,23,11,4,#3498db,Times New Roman,False,Responded,0.3480595999990328,True
+Moises Alberto Garcia Miranda,Masculino,23,12,7,#2ecc71,Arial,False,Responded,0.4436259000012796,True
+Moises Alberto Garcia Miranda,Masculino,23,13,5,#9b59b6,Arial,False,Responded,0.3149877000014385,True
+Moises Alberto Garcia Miranda,Masculino,23,14,8,#3498db,Verdana,False,Responded,0.3259096999991016,True
+Moises Alberto Garcia Miranda,Masculino,23,15,9,#3498db,Courier,True,No Response,,True
+Moises Alberto Garcia Miranda,Masculino,23,16,9,#f39c12,Verdana,True,No Response,,True
+Moises Alberto Garcia Miranda,Masculino,23,17,7,#e74c3c,Arial,False,Responded,0.4498468999991019,True
+Moises Alberto Garcia Miranda,Masculino,23,18,8,#1abc9c,Impact,False,Responded,0.3298008000001573,True
+Moises Alberto Garcia Miranda,Masculino,23,19,9,#f39c12,Comic Sans MS,True,No Response,,True
+Moises Alberto Garcia Miranda,Masculino,23,20,5,#2ecc71,Courier,False,Responded,0.3766068999993877,True
+Moises Alberto Garcia Miranda,Masculino,23,21,8,#34495e,Verdana,False,Responded,0.3072286000005988,True
+Moises Alberto Garcia Miranda,Masculino,23,22,9,#2ecc71,Impact,True,Responded,0.3361055000004853,False
+Moises Alberto Garcia Miranda,Masculino,23,23,1,#f39c12,Comic Sans MS,False,Responded,0.3976342000005388,True
+Moises Alberto Garcia Miranda,Masculino,23,24,8,#34495e,Arial,False,Responded,0.3301288999991811,True
+Moises Alberto Garcia Miranda,Masculino,23,25,7,#3498db,Times New Roman,False,Responded,0.3666945000004489,True
+Moises Alberto Garcia Miranda,Masculino,23,26,9,#2ecc71,Georgia,True,No Response,,True
+Moises Alberto Garcia Miranda,Masculino,23,27,2,#2ecc71,Times New Roman,False,Responded,0.4549948000003496,True
+Moises Alberto Garcia Miranda,Masculino,23,28,4,#f39c12,Courier,False,Responded,0.3969359999991866,True
+Moises Alberto Garcia Miranda,Masculino,23,29,5,#3498db,Courier,False,Responded,0.5750048999998398,True
+Moises Alberto Garcia Miranda,Masculino,23,30,8,#1abc9c,Arial,False,Responded,0.4677295000001322,True
+Moises Alberto Garcia Miranda,Masculino,23,31,5,#1abc9c,Courier,False,Responded,0.3339845999998942,True
+Moises Alberto Garcia Miranda,Masculino,23,32,9,#34495e,Courier,True,No Response,,True
+Moises Alberto Garcia Miranda,Masculino,23,33,4,#9b59b6,Impact,False,Responded,0.2652075999994849,True
+Moises Alberto Garcia Miranda,Masculino,23,34,9,#3498db,Comic Sans MS,True,Responded,0.3062952999989647,False
+Moises Alberto Garcia Miranda,Masculino,23,35,5,#2ecc71,Times New Roman,False,Responded,0.4888733999996475,True
+Moises Alberto Garcia Miranda,Masculino,23,36,9,#9b59b6,Impact,True,No Response,,True
+Moises Alberto Garcia Miranda,Masculino,23,37,8,#34495e,Arial,False,Responded,0.4148801999999705,True
+Moises Alberto Garcia Miranda,Masculino,23,38,7,#f39c12,Times New Roman,False,Responded,0.3415218,True
+Moises Alberto Garcia Miranda,Masculino,23,39,3,#e74c3c,Comic Sans MS,False,Responded,0.3169806000005337,True
+Moises Alberto Garcia Miranda,Masculino,23,40,9,#1abc9c,Courier,True,No Response,,True
+Moises Alberto Garcia Miranda,Masculino,23,41,6,#e74c3c,Impact,False,Responded,0.3865530000002763,True
+Moises Alberto Garcia Miranda,Masculino,23,42,9,#2ecc71,Georgia,True,No Response,,True
+Moises Alberto Garcia Miranda,Masculino,23,43,9,#e74c3c,Courier,True,No Response,,True
+Moises Alberto Garcia Miranda,Masculino,23,44,9,#34495e,Courier,True,No Response,,True
+Moises Alberto Garcia Miranda,Masculino,23,45,4,#1abc9c,Comic Sans MS,False,Responded,0.3341619000002538,True
+Moises Alberto Garcia Miranda,Masculino,23,46,9,#3498db,Times New Roman,True,No Response,,True
+Moises Alberto Garcia Miranda,Masculino,23,47,9,#1abc9c,Courier,True,No Response,,True
+Moises Alberto Garcia Miranda,Masculino,23,48,9,#1abc9c,Verdana,True,No Response,,True
+Moises Alberto Garcia Miranda,Masculino,23,49,1,#2ecc71,Times New Roman,False,Responded,0.3478475000010803,True
+Moises Alberto Garcia Miranda,Masculino,23,50,9,#f39c12,Courier,True,No Response,,True
